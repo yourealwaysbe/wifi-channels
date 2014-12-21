@@ -29,4 +29,4 @@ SCREENSHOT
 
 The almost pretty graph looks like this.
 
-![Screen shot of wifi_channels.py](https://raw.githubusercontent.com/yourealwaysbe/wifi-channels/master/screenshot.png)
+![Screen shot of wifi_channels.py](screenshot.png)
