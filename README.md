@@ -23,3 +23,10 @@ USAGE
 
     The x-axis is the channel.  The y-axis indicates signal strength (it's 100 +
     the dBm to be precise.)
+
+SCREENSHOT
+==========
+
+The almost pretty graph looks like this.
+
+![Screen shot of wifi_channels.py](https://raw.githubusercontent.com/yourealwaysbe/wifi-channels/master/screenshot.png)
