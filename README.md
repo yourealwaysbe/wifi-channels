@@ -23,7 +23,7 @@ connected to...
 Updates every 5s until you close the graph window.
 
 The x-axis is the channel.  The y-axis indicates signal strength (it's 100 +
-the dBm to be precise.)
+the dBm to be precise).
 
 
 screenshot
