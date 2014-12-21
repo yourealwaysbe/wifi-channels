@@ -11,6 +11,7 @@ depends
 + [Wifi tools for python](https://pypi.python.org/pypi/wifi)
 + [matplotlib](https://pypi.python.org/pypi/matplotlib)
 
+
 usage
 =====
 
@@ -19,8 +20,11 @@ usage
 Needs root access really, otherwise you can only see the ssid you're
 connected to...
 
+Updates every 5s until you close the graph window.
+
 The x-axis is the channel.  The y-axis indicates signal strength (it's 100 +
 the dBm to be precise.)
+
 
 screenshot
 ==========
