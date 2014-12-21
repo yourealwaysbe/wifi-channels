@@ -45,6 +45,7 @@ def plot_channel_data(frame):
 
 if len(sys.argv) != 2:
     print("Usage: wifi-channels <interface>")
+    print("Needs root access.")
 else:
     interface = sys.argv[1]
     fig, ax = plt.subplots()
