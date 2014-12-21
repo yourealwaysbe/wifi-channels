@@ -5,7 +5,7 @@ A simple python script for viewing local wifi channel usage vs. signal strength.
 Draws an almost pretty graph.
 
 
-DEPENDS
+depends
 =======
 
     + Wifi tools for python: 
@@ -13,7 +13,7 @@ DEPENDS
     + matplotlib: 
         https://pypi.python.org/pypi/matplotlib
 
-USAGE
+usage
 =====
 
     ./wifi-channels.py <interface>
@@ -24,7 +24,7 @@ USAGE
     The x-axis is the channel.  The y-axis indicates signal strength (it's 100 +
     the dBm to be precise.)
 
-SCREENSHOT
+screenshot
 ==========
 
 The almost pretty graph looks like this.
