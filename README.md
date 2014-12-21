@@ -14,7 +14,7 @@ depends
 usage
 =====
 
-./wifi-channels.py <interface>
+    ./wifi-channels.py <interface>
 
 Needs root access really, otherwise you can only see the ssid you're
 connected to...
